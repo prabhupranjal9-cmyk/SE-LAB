@@ -48,3 +48,11 @@ After applying the fixes, the program will be executed again and Pylint, Bandit,
 
 
 
+\## Pylint Verification
+
+
+
+The final Pylint score was 10.00/10. The code-quality findings were addressed by adding docstrings, using snake\_case function names, removing the mutable default argument, and correcting formatting and exception handling.
+
+
+
