@@ -56,3 +56,11 @@ The final Pylint score was 10.00/10. The code-quality findings were addressed by
 
 
 
+\## Flake8 Verification
+
+
+
+The final Flake8 analysis produced no violations. Long lines, ambiguous variable names, and spacing and statement-formatting issues were corrected.
+
+
+
